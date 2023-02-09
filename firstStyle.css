@@ -1,13 +1,13 @@
-body{
+body {
     background-color: orange;
 }
 
-.detail{
+.detail {
     color: blue;
-    font-family:'Times New Roman', Times, sans-serif
+    font-family:'Times New Roman', Times, sans-serif;
 }
 
-.table{
+.table {
     border-width: 5px;
     padding: 3px;
 }
