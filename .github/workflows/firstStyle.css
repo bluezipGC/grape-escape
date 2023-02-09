@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+    font-family: Haettenschweiler
+}
+
+.detail{
+    color: blue;
+    font-family:'Times New Roman', Times, sans-serif
+}
+
+.table{
+    border-width: 5px;
+    padding: 3px;
+}
