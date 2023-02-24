@@ -4,7 +4,7 @@ body {
 
 .detail {
     color: lawngreen; 
-    font-family:'Times New Roman', Times, sans-serif;
+    font-family:'Plus Jakarta Sans', sans-serif;
 }
 
 .table {
@@ -13,7 +13,7 @@ body {
 }
 
 .containerOne {
-    height: 500px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     background-color: blueviolet;
 }
